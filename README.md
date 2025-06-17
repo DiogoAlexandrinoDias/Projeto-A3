@@ -4,11 +4,11 @@
 
 ## 👥 Integrantes
 
-g → Backend/Database
+Gustavo Henrique Alves
 
-[Nome 2] → CRUD Operations
+Guilherme Pereira Teixeira
 
-[Nome 3] → UI/Menu System
+Diogo Alexandrino Dias
 
 ## 📖 Sobre o Projeto
 Sistema CRUD (Create, Read, Update, Delete) em Java integrado ao MySQL para gestão de produtos. Desenvolvido como parte da Avaliação A3, aplicando conceitos de:
